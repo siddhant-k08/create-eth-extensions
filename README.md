@@ -29,6 +29,7 @@ Before you begin, you need to install the following tools:
 
 ## Quickstart
 
+Stuck and need help? Join the [Subgraph Extension Telegram Support chat!](https://t.me/+fafK-afX2aM0ZWZh)
 To get started with Scaffold-ETH 2, follow the steps below:
 
 1. Install dependencies if it was skipped in CLI:
